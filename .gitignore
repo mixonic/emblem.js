@@ -16,3 +16,4 @@ tmp
 sauce_connect.log
 
 dist
+bower_components
